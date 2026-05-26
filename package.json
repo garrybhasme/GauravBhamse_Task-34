@@ -1,0 +1,26 @@
+{
+  "name": "task34",
+  "version": "1.0.0",
+  "description": "This is Task no.34",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garrybhasme/GauravBhamse_Task-34.git"
+  },
+  "author": "garry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/garrybhasme/GauravBhamse_Task-34/issues"
+  },
+  "homepage": "https://github.com/garrybhasme/GauravBhamse_Task-34#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
